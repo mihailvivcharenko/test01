@@ -1,3 +1,3 @@
-ant = [1, 2, 3, 4, 5]
+ant = [1, 2, 3, 4, 'frfrfrf']
 
 print(ant)
